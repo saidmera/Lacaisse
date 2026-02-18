@@ -1,0 +1,7 @@
+{
+  "name": "Offline Expense & Alimentation Manager",
+  "description": "A fully offline management tool for expenses and food costs with biometric security, local storage, and PDF/Excel exports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
